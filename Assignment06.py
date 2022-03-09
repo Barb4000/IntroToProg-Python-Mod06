@@ -8,7 +8,7 @@
 # RRoot,1.1.2030,Created started script
 # BSpadavecchia,02.21.2022,Modified code to complete assignment 06
 # ---------------------------------------------------------------------------- #
-
+# BSpadavecchia,03.08.2022,Used to test Git management of file
 # Data ---------------------------------------------------------------------- #
 # Declare variables and constants
 file_name_str = "ToDoList.txt"  # The name of the data file
